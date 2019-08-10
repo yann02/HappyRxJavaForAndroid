@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HappyRxJavaForAndroid</string>
+    <string name="foreach">遍历</string>
+    <string name="simple">简单用例</string>
+    <string name="fromCallable">fromCallable</string>
 </resources>
